@@ -2,7 +2,7 @@ Markdown laguage testfile
 =========
 text styles
 ----------
-_italicized text_
+	_italicized text_
 	~~strikethrough text~~
 	__bold text__
 	___bold and italicized text___
