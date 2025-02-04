@@ -1,6 +1,10 @@
 # this is a file to test markdown language
-# Making a header #
-_emphasized text_
+# First header #
+second header; different method
+----------
+first header; different method 
+=========
+_emphasized/italicized text_
 ~~strikethrough text~~
-__strong text__
+__strong/bold text__
 ___strong emphasized text___
