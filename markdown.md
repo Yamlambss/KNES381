@@ -10,8 +10,8 @@ text styles
 	[UselessWeb](https://theuselessweb.com "for when you're bored")
 	Time | Mood
 	---- | ---
-	9am | hungry
+	9am  | hungry
 	12pm | hungry
-	3pm | hungry
-	7pm | hungry
+	3pm  | hungry
+	7pm  | hungry
 
