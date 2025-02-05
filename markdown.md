@@ -23,3 +23,5 @@ Time | Mood
 7pm  | hungry
 	
 :sleeping_face:
+:explanation:
+:+1:
