@@ -22,12 +22,4 @@ Time | Mood
 3pm  | hungry
 7pm  | hungry
 	
-:+1:
-
-:sleeping_face:
-
-:slighty_smiling_face:
-
-:hugs:
-
-:yum:
+:sleepy:
