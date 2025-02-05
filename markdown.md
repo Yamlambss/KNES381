@@ -22,7 +22,7 @@ Time | Mood
 3pm  | hungry
 7pm  | hungry
 	
-:sleeping_face:
-:explanation:
 :+1:
-:sleepingface:
+:sleeping_face:
+:slighty_smiling_face:
+
