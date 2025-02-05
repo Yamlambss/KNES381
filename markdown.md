@@ -23,6 +23,8 @@ Time | Mood
 7pm  | hungry
 	
 :+1:
+
 :sleeping_face:
+
 :slighty_smiling_face:
 
