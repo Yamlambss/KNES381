@@ -28,3 +28,6 @@ Time | Mood
 
 :slighty_smiling_face:
 
+:hugs:
+
+:yum:
