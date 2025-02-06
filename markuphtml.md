@@ -1,6 +1,6 @@
 <h1>Markup-HTML Assignment </h1> 
 
-This is a picture of a sunset <img src="sunset.jpg" alt="a beautiful sunset">
+This is a picture of a sunset <img src="/images/sunset.jpg" alt="a beautiful sunset">
 
 $${\color{red}Colored \space \color{blue}Text}$$
 
