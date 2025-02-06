@@ -1,6 +1,6 @@
 <h1>Markup-HTML Assignment </h1> 
 
-This is a picture of a sunset !(/assets/
+This is a picture of a sunset <img src="https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg" alt="a beautiful sunset">
 
 $${\color{red}Colored \space \color{blue}Text}$$
 
@@ -8,7 +8,7 @@ $${\color{red}Colored \space \color{blue}Text}$$
 
 #A64DFF;colored text
 
-[sunset, again](https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg)
-
+[sunset](https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg)
+<a href="https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg">sunset, again</a>
 
 subscript example: VO<sub>2
