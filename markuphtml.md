@@ -1,4 +1,4 @@
-<h1> Markup-HTML Assignment </h1> 
+<title>Markup-HTML Assignment </title> 
 
 This is a picture of a sunset !(/assets/
 
