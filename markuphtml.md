@@ -1,9 +1,8 @@
- Markup-HTML Assignment 
-:===========:
+# Markup-HTML Assignment # 
 
-This is a picture of a sunset !(/assets/images/sunset.jpg)
+This is a picture of a sunset !(https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg)
 
-$$(\color(purple)coloured \color(pink)text)$$
+<code style="color : fuchsia">colored</code> <code style="color : cyan">text</code>
 
 [sunset, again](https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg)
 
