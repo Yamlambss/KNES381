@@ -9,4 +9,4 @@ $${\color{red}Colored \space \color{blue}Text}$$
 [sunset, again](https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg)
 
 
-subscript example: VO<sub>2<\sub>
+subscript example: VO<sub>2
