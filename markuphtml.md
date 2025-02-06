@@ -1,14 +1,24 @@
-<h1>Markup-HTML Assignment </h1> 
+<!DOCTYPE html>
+<html>
+<h1 style="text-align:center;">Markup-HTML Assignment</h1> 
+
 <table>
-This is a picture of a sunset <img src="/images/sunset.jpg" alt="a beautiful sunset" width="100" height="100">
+<tr>
+  <td>This is a picture of a sunset<br>
+  <a href="https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg">the same sunset</a> 
+  </td> 
+  <td><img src="/images/sunset.jpg" alt="a beautiful sunset"height="200" width="300"></td>
+</tr>
+</table>
 
+<p>
+  A picture of a 
+  <a href="https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg">sunset</a>
+  <img src="/images/sunset.jpg" alt="a beautiful sunset" height="200" width="300">
+</p>
+  
 $${\color{red}Colored \space \color{blue}Text}$$
+<p style="color:#00FFFF;">Colored Text</p>
 
-<code style="color : fuchsia">colored</code> <code style="color : cyan">text</code>
-
-#A64DFF;colored text
-
-[sunset](https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg)<br>
-<a href="https://github.com/Yamlambss/KNES381/tree/main/images/sunset.jpg">sunset, again</a>
-
-subscript example: VO<sub>2
+subscript example: V&#768;O<sub>2
+</html>
