@@ -18,7 +18,7 @@
 </p>
   
 $${\color{red}Colored \space \color{blue}Text}$$
-<p style="color:#00FFFF;">Colored Text</p>
+<p style="color:#ee82ee;">Colored Text</p>
 
-subscript example: V&#768;O<sub>2
+subscript example: V&#768;O<sub>2</sub> 
 </html>
