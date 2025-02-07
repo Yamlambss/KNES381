@@ -4,7 +4,7 @@
 </head>
   
 <body>
-<h1 style="text-align:center;">Markup-HTML Assignment</h1> 
+<h1 align="center">Markup-HTML Assignment</h1> 
 
 <table>
   <tr>
@@ -21,11 +21,7 @@
   <img src="/images/sunset.jpg" alt="a beautiful sunset" height="200" width="300">
 </p>
   
-$${\color{red}Colored \space \color{blue}Text}$$
-<p style="color:#ee82ee;">Colored Text</p>
-<p>
-  <span style="color:#ee82ee;">Colored Text</span>
-</p>
+here is some $${\color{red}colored \space \color{blue}text}$$
 
 subscript example: V&#768;O<sub>2</sub> 
 </body>
