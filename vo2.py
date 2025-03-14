@@ -2,8 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt 
 
-df = pd.read_csv('C:\Users\dialk\KNES381\KNES381_vo2data\subject_1232.csv')
-df.info
+df = pd.read_csv('https://github.com/Yamlambss/KNES381/tree/main/KNES381_vo2data/subject_1232.csv')
 df.head(10)
 #df = df.rename(columns={'':''})
 '''
