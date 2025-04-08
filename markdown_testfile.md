@@ -1,4 +1,4 @@
-Markdown laguage testfile
+Markdown language testfile
 =========
 text styles
 ----------
